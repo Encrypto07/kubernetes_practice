@@ -1,0 +1,3 @@
+Q 1. What is worksapce in kubernetes
+
+Ans -> A workspace is the in kubernetes is basically workload, which is running inside a pod. 
